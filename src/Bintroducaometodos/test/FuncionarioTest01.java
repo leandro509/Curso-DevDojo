@@ -11,13 +11,13 @@ public class FuncionarioTest01 {
         
     
     Funcionario funcionario = new Funcionario();
-    funcionario.nome = "Leandro";
-    funcionario.idade = 19;
-    funcionario.salarios = new double[]{1200, 987.32, 2000};
+    funcionario.setNome("Leandro");
+    funcionario.setIdade(19);
+    funcionario.setSalarios (new double[]{1200, 987.32, 2000});
     
     
     funcionario.imprime();
-   
+        System.out.println("Media " + funcionario.getMedia());
     
 
     }
