@@ -1,0 +1,270 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" default=\"true\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 511f1edf663bb853fd1b019994e224f04992395e)
++++ b/.idea/misc.xml	(date 1754316899188)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" default="true">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"19c00e0a-d101-4ec3-bc8b-043c01710bcd\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/POO.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/arquivo/teste.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build/classes/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build/classes/.idea/classes.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build/classes/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build/classes/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build/classes/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Carro.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Estudante.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Professor.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/CarroTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/EstudanteTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/EstudanteTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/ProfessorTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Calculadora.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Estudante.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Funcionario.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/ImpressoraEstudante.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Pessoa.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest04.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest05.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/EstudanteTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/EstudanteTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/FuncionarioTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/PessoaTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Csobrecargametodos/dominio/Anime.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Csobrecargametodos/test/AnimeTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Dconstrutores/dominio/Anime.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Dconstrutores/test/AnimeTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Eblocosdeinicialiazacao/dominio/Anime.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Eblocosdeinicialiazacao/test/AnimeTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/dominio/Anime.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/dominio/Carro.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/test/AnimeTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/test/CarroTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Aluno.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Escola.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Jogador.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Local.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Professor.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Professor02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Seminario.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Time.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/AssociacaoTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/EscolaTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/LeituraDoTecladoTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Gassociacao/test/LeituraDoTecladoTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Endereco.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Funcionario.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Pessoa.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Hheranca/test/HerancaTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Hheranca/test/HerancaTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Isobrescrita/dominio/Anime.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Isobrescrita/test/AnimeTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Carro.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Comprador.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Ferrari.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/test/CarroTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/dominio/Cliente.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoCliente.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento$1.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento$2.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Kenum/test/ClienteTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Desenvolvedor.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Funcionario.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Gerente.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Pessoa.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Lclassesabstratas/test/FuncionarioTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DataLoader.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DataRemover.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DatabaseLoader.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/FileLoader.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Minterfaces/test/DataLoaderTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Computador.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Produto.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Taxavel.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Televisao.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Tomate.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/CalculadoraImposto.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioArquivo.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioBancoDeDados.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioMemoria.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/RepositorioTeste.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/error/test/StackOverflowTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/Leitor1.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/Leitor2.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/LoginInvalidoException.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/test/ExceptionTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/test/ExceptionTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/test/LoginInvalidoExceptionTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/exception/test/TryWithResourcesTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RunTimeExceptionTest03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RunTimeExceptionTest04.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RuntimeExceptionTest01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RuntimeExceptionTest02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/POO/repositorio/Repositorio.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/error/test/StackOverflowTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/dominio/Funcionario.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/dominio/Leitor1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/dominio/Leitor2.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/dominio/LoginInvalidoException.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/dominio/Pessoa.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/test/ExceptionTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/test/ExceptionTest02.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/test/LoginInvalidoExceptionTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/test/SobrescritaComExceptionTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/exception/test/TryWithResourcesTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/runtime/test/RunTimeExceptionTest03.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/runtime/test/RunTimeExceptionTest04.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/runtime/test/RuntimeExceptionTest01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oexception/runtime/test/RuntimeExceptionTest02.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/nbproject/private/private.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/nbproject/private/private.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"30I4M8lIXq7A973SYwEubuxyqVC\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.ExceptionTest01.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.LoginInvalidoExceptionTest01.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.RuntimeExceptionTest01.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.RuntimeExceptionTest02.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.StackOverflowTest01.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.TryWithResourcesTest01.executor&quot;: &quot;Run&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"Oexception.runtime.test\" />\r\n      <recent name=\"Oexception.exception.test\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.LoginInvalidoExceptionTest01\">\r\n    <configuration name=\"ExceptionTest01\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oexception.exception.test.ExceptionTest01\" />\r\n      <module name=\"POO\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oexception.exception.test.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginInvalidoExceptionTest01\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oexception.exception.test.LoginInvalidoExceptionTest01\" />\r\n      <module name=\"POO\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oexception.exception.test.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"RunTimeExceptionTest03\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oexception.runtime.test.RunTimeExceptionTest03\" />\r\n      <module name=\"POO\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oexception.runtime.test.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"RuntimeExceptionTest02\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oexception.runtime.test.RuntimeExceptionTest02\" />\r\n      <module name=\"POO\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oexception.runtime.test.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TryWithResourcesTest01\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oexception.exception.test.TryWithResourcesTest01\" />\r\n      <module name=\"POO\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oexception.exception.test.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.LoginInvalidoExceptionTest01\" />\r\n        <item itemvalue=\"Application.TryWithResourcesTest01\" />\r\n        <item itemvalue=\"Application.RunTimeExceptionTest03\" />\r\n        <item itemvalue=\"Application.RuntimeExceptionTest02\" />\r\n        <item itemvalue=\"Application.ExceptionTest01\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"19c00e0a-d101-4ec3-bc8b-043c01710bcd\" name=\"Changes\" comment=\"\" />\r\n      <created>1753301702304</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1753301702304</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 511f1edf663bb853fd1b019994e224f04992395e)
++++ b/.idea/workspace.xml	(date 1754316899189)
+@@ -5,132 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="19c00e0a-d101-4ec3-bc8b-043c01710bcd" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/POO.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/arquivo/teste.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build/classes/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build/classes/.idea/classes.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build/classes/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build/classes/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/build/classes/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Carro.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Estudante.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/dominio/Professor.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/CarroTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/EstudanteTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/EstudanteTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Aintroducaoclasses/test/ProfessorTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Calculadora.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Estudante.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Funcionario.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/ImpressoraEstudante.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/dominio/Pessoa.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest04.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/CalculadoraTest05.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/EstudanteTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/EstudanteTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/FuncionarioTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Bintroducaometodos/test/PessoaTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Csobrecargametodos/dominio/Anime.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Csobrecargametodos/test/AnimeTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Dconstrutores/dominio/Anime.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Dconstrutores/test/AnimeTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Eblocosdeinicialiazacao/dominio/Anime.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Eblocosdeinicialiazacao/test/AnimeTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/dominio/Anime.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/dominio/Carro.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/test/AnimeTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Fmodificadorestatico/test/CarroTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Aluno.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Escola.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Jogador.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Local.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Professor.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Professor02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Seminario.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/dominio/Time.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/AssociacaoTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/EscolaTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/JogadorTest03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/LeituraDoTecladoTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Gassociacao/test/LeituraDoTecladoTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Endereco.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Funcionario.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Hheranca/dominio/Pessoa.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Hheranca/test/HerancaTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Hheranca/test/HerancaTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Isobrescrita/dominio/Anime.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Isobrescrita/test/AnimeTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Carro.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Comprador.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/dominio/Ferrari.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Jmodificadorfinal/test/CarroTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/dominio/Cliente.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoCliente.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento$1.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento$2.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/dominio/TipoPagamento.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Kenum/test/ClienteTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Desenvolvedor.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Funcionario.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Gerente.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Lclassesabstratas/dominio/Pessoa.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Lclassesabstratas/test/FuncionarioTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DataLoader.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DataRemover.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/DatabaseLoader.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Minterfaces/dominio/FileLoader.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Minterfaces/test/DataLoaderTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Computador.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Produto.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Taxavel.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Televisao.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/dominio/Tomate.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/CalculadoraImposto.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioArquivo.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioBancoDeDados.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/servico/RepositorioMemoria.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/ProdutoTest03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Npolimorfismo/test/RepositorioTeste.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/error/test/StackOverflowTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/Leitor1.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/Leitor2.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/dominio/LoginInvalidoException.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/test/ExceptionTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/test/ExceptionTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/test/LoginInvalidoExceptionTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/exception/test/TryWithResourcesTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RunTimeExceptionTest03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RunTimeExceptionTest04.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RuntimeExceptionTest01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/Oexception/runtime/test/RuntimeExceptionTest02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/POO/repositorio/Repositorio.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/error/test/StackOverflowTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/dominio/Funcionario.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/dominio/Leitor1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/dominio/Leitor2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/dominio/LoginInvalidoException.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/dominio/Pessoa.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/test/ExceptionTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/test/ExceptionTest02.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/test/LoginInvalidoExceptionTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/test/SobrescritaComExceptionTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/exception/test/TryWithResourcesTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/runtime/test/RunTimeExceptionTest03.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/runtime/test/RunTimeExceptionTest04.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/runtime/test/RuntimeExceptionTest01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oexception/runtime/test/RuntimeExceptionTest02.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/build/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -155,22 +32,28 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.ExceptionTest01.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.LoginInvalidoExceptionTest01.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.RuntimeExceptionTest01.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.RuntimeExceptionTest02.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.StackOverflowTest01.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.TryWithResourcesTest01.executor&quot;: &quot;Run&quot;,
+-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.ExceptionTest01.executor": "Run",
++    "Application.LoginInvalidoExceptionTest01.executor": "Run",
++    "Application.RunTimeExceptionTest03.executor": "Run",
++    "Application.RuntimeExceptionTest01.executor": "Run",
++    "Application.RuntimeExceptionTest02.executor": "Run",
++    "Application.StackOverflowTest01.executor": "Run",
++    "Application.TryWithResourcesTest01.executor": "Run",
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "master",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "C:/Users/leandro/Desktop/DevDojo/POO",
++    "nodejs_package_manager_path": "npm",
++    "project.structure.last.edited": "Project",
++    "project.structure.proportion": "0.0",
++    "project.structure.side.proportion": "0.2",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="Oexception.runtime.test" />
+@@ -193,7 +76,6 @@
+     </configuration>
+     <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Oexception.exception.test.LoginInvalidoExceptionTest01" />
+-      <module name="POO" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="Oexception.exception.test.*" />
+@@ -253,6 +135,14 @@
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
++        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
++      </set>
++    </attachedChunks>
++  </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="19c00e0a-d101-4ec3-bc8b-043c01710bcd" name="Changes" comment="" />
+@@ -260,6 +150,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1753301702304</updated>
++      <workItem from="1754316809305" duration="14000" />
+     </task>
+     <servers />
+   </component>
+Index: build/classes/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"99cf80f5-5678-46a8-9908-dbc5a9d2c2ba\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/../../nbproject/private/private.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../../nbproject/private/private.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2zyVL46f0CPSBU0iEHrYYM8QQxG\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO/build/classes&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"99cf80f5-5678-46a8-9908-dbc5a9d2c2ba\" name=\"Changes\" comment=\"\" />\r\n      <created>1752703240614</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1752703240614</updated>\r\n      <workItem from=\"1753150375956\" duration=\"31000\" />\r\n      <workItem from=\"1753150415948\" duration=\"96000\" />\r\n      <workItem from=\"1753150530453\" duration=\"19000\" />\r\n      <workItem from=\"1753150607674\" duration=\"4000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/build/classes/.idea/workspace.xml b/build/classes/.idea/workspace.xml
+--- a/build/classes/.idea/workspace.xml	(revision 511f1edf663bb853fd1b019994e224f04992395e)
++++ b/build/classes/.idea/workspace.xml	(date 1754316899190)
+@@ -5,7 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="99cf80f5-5678-46a8-9908-dbc5a9d2c2ba" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../../nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../nbproject/private/private.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -28,7 +29,8 @@
+     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+     &quot;last_opened_file_path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO/build/classes&quot;,
+     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+     &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,
