@@ -1,0 +1,13 @@
+package Rdatas.test;
+
+import java.util.Date;
+
+public class DateTest01 {
+    public static void main(String[] args) {
+        Date date = new Date(1756129554602L);//long 100000
+        //Date trabalha com milissegundos
+        //Classe date nao e mais muito utilizada.
+        date.setTime(date.getTime() + 3_600_000);
+        System.out.println(date);
+    }
+}

@@ -46,12 +46,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalendarTest01.executor": "Run",
+    "Application.DateFormatTest01.executor": "Run",
+    "Application.DateTest01.executor": "Run",
     "Application.ExceptionTest01.executor": "Run",
+    "Application.LocaleTest01.executor": "Run",
+    "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
+    "Application.NumberFormatTest01.executor": "Run",
+    "Application.NumberFormatTest02.executor": "Run",
     "Application.RunTimeExceptionTest03.executor": "Run",
     "Application.RuntimeExceptionTest01.executor": "Run",
     "Application.RuntimeExceptionTest02.executor": "Run",
     "Application.StackOverflowTest01.executor": "Run",
+    "Application.StringBuilderTest01.executor": "Run",
     "Application.StringTest01.executor": "Run",
     "Application.StringTest02.executor": "Run",
     "Application.TryWithResourcesTest01.executor": "Run",
@@ -78,16 +86,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sformatacao.test" />
       <recent name="Oexception.runtime.test" />
       <recent name="Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperTest01">
-    <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oexception.exception.test.LoginInvalidoExceptionTest01" />
+  <component name="RunManager" selected="Application.NumberFormatTest02">
+    <configuration name="DateFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.DateFormatTest01" />
+      <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oexception.runtime.test.*" />
+          <option name="PATTERN" value="Sformatacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qstring.test.StringTest01" />
+    <configuration name="LocaleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.LocaleTest01" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Qstring.test.*" />
+          <option name="PATTERN" value="Sformatacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qstring.test.StringTest02" />
+    <configuration name="LocaleTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.LocaleTest02" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Qstring.test.*" />
+          <option name="PATTERN" value="Sformatacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oexception.exception.test.TryWithResourcesTest01" />
+    <configuration name="NumberFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.NumberFormatTest01" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oexception.exception.test.*" />
+          <option name="PATTERN" value="Sformatacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pwrapper.test.WrapperTest01" />
+    <configuration name="NumberFormatTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.NumberFormatTest02" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pwrapper.test.*" />
+          <option name="PATTERN" value="Sformatacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,9 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WrapperTest01" />
-        <item itemvalue="Application.LoginInvalidoExceptionTest01" />
-        <item itemvalue="Application.TryWithResourcesTest01" />
+        <item itemvalue="Application.NumberFormatTest02" />
+        <item itemvalue="Application.NumberFormatTest01" />
+        <item itemvalue="Application.LocaleTest02" />
+        <item itemvalue="Application.LocaleTest01" />
+        <item itemvalue="Application.DateFormatTest01" />
       </list>
     </recent_temporary>
   </component>
