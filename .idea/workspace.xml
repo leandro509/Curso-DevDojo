@@ -62,10 +62,18 @@
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
     "Application.NumberFormatTest01.executor": "Run",
     "Application.NumberFormatTest02.executor": "Run",
+    "Application.PatternMatcherTest01.executor": "Run",
+    "Application.PatternMatcherTest02.executor": "Run",
+    "Application.PatternMatcherTest03.executor": "Run",
+    "Application.PatternMatcherTest04.executor": "Run",
+    "Application.PatternMatcherTest05.executor": "Run",
     "Application.PeriodTest01.executor": "Run",
+    "Application.ResourceBundleTest01.executor": "Run",
     "Application.RunTimeExceptionTest03.executor": "Run",
     "Application.RuntimeExceptionTest01.executor": "Run",
     "Application.RuntimeExceptionTest02.executor": "Run",
+    "Application.ScannerTest01.executor": "Run",
+    "Application.ScannerTest02.executor": "Run",
     "Application.SimpleDateFormatTest01.executor": "Run",
     "Application.StackOverflowTest01.executor": "Run",
     "Application.StringBuilderTest01.executor": "Run",
@@ -98,18 +106,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Uregex.test" />
       <recent name="Sformatacao.test" />
       <recent name="Oexception.runtime.test" />
       <recent name="Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeFormatterTest01">
-    <configuration name="ChronoUnitTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rdatas.test.ChronoUnitTest01" />
+  <component name="RunManager" selected="Application.ScannerTest02">
+    <configuration name="PatternMatcherTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest03" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rdatas.test.*" />
+          <option name="PATTERN" value="Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeFormatterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sformatacao.test.DateTimeFormatterTest01" />
+    <configuration name="PatternMatcherTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest04" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sformatacao.test.*" />
+          <option name="PATTERN" value="Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjusterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rdatas.test.TemporalAdjusterTest01" />
+    <configuration name="PatternMatcherTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest05" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rdatas.test.*" />
+          <option name="PATTERN" value="Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjustersTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rdatas.test.TemporalAdjustersTest01" />
+    <configuration name="ScannerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uregex.test.ScannerTest01" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rdatas.test.*" />
+          <option name="PATTERN" value="Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoneTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rdatas.test.ZoneTest01" />
+    <configuration name="ScannerTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uregex.test.ScannerTest02" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rdatas.test.*" />
+          <option name="PATTERN" value="Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateTimeFormatterTest01" />
-        <item itemvalue="Application.ZoneTest01" />
-        <item itemvalue="Application.TemporalAdjusterTest01" />
-        <item itemvalue="Application.TemporalAdjustersTest01" />
-        <item itemvalue="Application.ChronoUnitTest01" />
+        <item itemvalue="Application.ScannerTest02" />
+        <item itemvalue="Application.ScannerTest01" />
+        <item itemvalue="Application.PatternMatcherTest05" />
+        <item itemvalue="Application.PatternMatcherTest04" />
+        <item itemvalue="Application.PatternMatcherTest03" />
       </list>
     </recent_temporary>
   </component>
