@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19c00e0a-d101-4ec3-bc8b-043c01710bcd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta2/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/BasicFileAttributesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/BasicFileAttributesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/DirectoryStreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/DosFileAttributesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/NormalizeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/PathMatcherTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/PathMatcherTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/PathTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/PathTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/PosixFileAttributesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/RelativizeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/ResolveTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/SimpleFileVisitorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wnio/Test/ZipOutputStreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xserializacao/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xserializacao/dominio/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xserializacao/test/SerializacaoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivo/teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/william/dev/arquivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO/Rdatas/test/InstantTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO/Rdatas/test/InstantTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO/Uregex/test/ScannerTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO/Uregex/test/ScannerTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rdatas/test/InstantTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rdatas/test/InstantTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +76,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BasicFileAttribrutesTest01.executor": "Run",
+    "Application.BasicFileAttributesTest02.executor": "Run",
+    "Application.BufferedReaderTest01.executor": "Run",
+    "Application.BufferedWriterTest01.executor": "Run",
     "Application.CalendarTest01.executor": "Run",
     "Application.ChronoUnitTest01.executor": "Run",
     "Application.DateFormatTest01.executor": "Run",
     "Application.DateTest01.executor": "Run",
     "Application.DateTimeFormatterTest01.executor": "Run",
+    "Application.DirectoryStreamTest01.executor": "Run",
+    "Application.DosFileAttributesTest01.executor": "Run",
     "Application.DurationTest01.executor": "Run",
     "Application.ExceptionTest01.executor": "Run",
+    "Application.FileReaderTest01.executor": "Run",
+    "Application.FileTest01.executor": "Run",
+    "Application.FileTest02.executor": "Run",
+    "Application.FileWriter01.executor": "Run",
+    "Application.FileWriterTest01.executor": "Run",
     "Application.InstantTest01.executor": "Run",
     "Application.LocalDateTest01.executor": "Run",
     "Application.LocalDateTimeTest01.executor": "Run",
@@ -60,21 +101,30 @@
     "Application.LocaleTest01.executor": "Run",
     "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
+    "Application.NormalizeTest01.executor": "Run",
     "Application.NumberFormatTest01.executor": "Run",
     "Application.NumberFormatTest02.executor": "Run",
+    "Application.PathMatcherTest01.executor": "Run",
+    "Application.PathMatcherTest02.executor": "Run",
+    "Application.PathTest01.executor": "Run",
+    "Application.PathTest02.executor": "Run",
+    "Application.PathTest03.executor": "Run",
     "Application.PatternMatcherTest01.executor": "Run",
     "Application.PatternMatcherTest02.executor": "Run",
     "Application.PatternMatcherTest03.executor": "Run",
     "Application.PatternMatcherTest04.executor": "Run",
     "Application.PatternMatcherTest05.executor": "Run",
     "Application.PeriodTest01.executor": "Run",
+    "Application.PosixFileAttributesTest01.executor": "Run",
     "Application.ResourceBundleTest01.executor": "Run",
     "Application.RunTimeExceptionTest03.executor": "Run",
     "Application.RuntimeExceptionTest01.executor": "Run",
     "Application.RuntimeExceptionTest02.executor": "Run",
     "Application.ScannerTest01.executor": "Run",
     "Application.ScannerTest02.executor": "Run",
+    "Application.SerializacaoTest01.executor": "Run",
     "Application.SimpleDateFormatTest01.executor": "Run",
+    "Application.SimpleFileVisitorTest01.executor": "Run",
     "Application.StackOverflowTest01.executor": "Run",
     "Application.StringBuilderTest01.executor": "Run",
     "Application.StringTest01.executor": "Run",
@@ -83,11 +133,13 @@
     "Application.TemporalAdjustersTest01.executor": "Run",
     "Application.TryWithResourcesTest01.executor": "Run",
     "Application.WrapperTest01.executor": "Run",
+    "Application.ZipOutputStreamTest01.executor": "Run",
     "Application.ZoneTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -97,28 +149,33 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "onboarding.tips.debug.path": "C:/Users/leandro/Desktop/DevDojo/POO/pasta/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leandro\Desktop\DevDojo\POO\home\william\dev" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Vio.test" />
       <recent name="Uregex.test" />
       <recent name="Sformatacao.test" />
       <recent name="Oexception.runtime.test" />
       <recent name="Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest02">
-    <configuration name="PatternMatcherTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest03" />
-      <module name="POO" />
+  <component name="RunManager" selected="Application.SerializacaoTest01">
+    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wnio.Test.PathMatcherTest01" />
+      <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uregex.test.*" />
+          <option name="PATTERN" value="Wnio.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatcherTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest04" />
-      <module name="POO" />
+    <configuration name="PathMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wnio.Test.PathMatcherTest02" />
+      <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uregex.test.*" />
+          <option name="PATTERN" value="Wnio.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatcherTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uregex.test.PatternMatcherTest05" />
-      <module name="POO" />
+    <configuration name="SerializacaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xserializacao.test.SerializacaoTest01" />
+      <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uregex.test.*" />
+          <option name="PATTERN" value="Xserializacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uregex.test.ScannerTest01" />
-      <module name="POO" />
+    <configuration name="SimpleFileVisitorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wnio.Test.SimpleFileVisitorTest01" />
+      <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uregex.test.*" />
+          <option name="PATTERN" value="Wnio.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uregex.test.ScannerTest02" />
-      <module name="POO" />
+    <configuration name="ZipOutputStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wnio.Test.ZipOutputStreamTest01" />
+      <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uregex.test.*" />
+          <option name="PATTERN" value="Wnio.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerTest02" />
-        <item itemvalue="Application.ScannerTest01" />
-        <item itemvalue="Application.PatternMatcherTest05" />
-        <item itemvalue="Application.PatternMatcherTest04" />
-        <item itemvalue="Application.PatternMatcherTest03" />
+        <item itemvalue="Application.SerializacaoTest01" />
+        <item itemvalue="Application.ZipOutputStreamTest01" />
+        <item itemvalue="Application.PathMatcherTest02" />
+        <item itemvalue="Application.PathMatcherTest01" />
+        <item itemvalue="Application.SimpleFileVisitorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -210,5 +267,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
