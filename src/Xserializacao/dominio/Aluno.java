@@ -4,7 +4,7 @@ import java.io.*;
 
 //todo objeto que vai ser serializado precisa implementar a classe serializable
 public class Aluno implements Serializable {
-    @Serial
+
     private static final long serialVersionUID = 7359138882532117041L;
 
     private Long id;
@@ -21,7 +21,7 @@ public class Aluno implements Serializable {
         this.password = password;
     }
 
-    @Serial
+
     private void writeObject(ObjectOutputStream oos) {
         try {
             oos.defaultWriteObject();
@@ -31,7 +31,7 @@ public class Aluno implements Serializable {
         }
     }
 
-    @Serial
+
     private void readObject(ObjectInputStream ois) {
         try {
             ois.defaultReadObject();
