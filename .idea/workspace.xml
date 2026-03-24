@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19c00e0a-d101-4ec3-bc8b-043c01710bcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/dominio/Barco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/service/BarcoRentavelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/service/CarroRentavelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/service/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/ClasseGenericaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/ClasseGenericaTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/ClasseGenericaTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/GenericsTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/MetodoGenericoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/WildcardTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zgenerics/test/WildcardTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZZAclassesinternas/test/AnonymousClassesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZZAclassesinternas/test/AnonymousClassesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZZAclassesinternas/test/OuterClassesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZZAclassesinternas/test/OuterClassesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZZAclassesinternas/test/OuterClassesTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/Zgenerics/dominio/Barco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/Zgenerics/dominio/Barco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/Zgenerics/test/MetodoGenericoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/Zgenerics/test/MetodoGenericoTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zgenerics/dominio/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zgenerics/dominio/Barco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,113 +52,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicFileAttribrutesTest01.executor": "Run",
-    "Application.BasicFileAttributesTest02.executor": "Run",
-    "Application.BinarySearchTest01.executor": "Run",
-    "Application.BinarySearchTest02.executor": "Run",
-    "Application.BufferedReaderTest01.executor": "Run",
-    "Application.BufferedWriterTest01.executor": "Run",
-    "Application.CalendarTest01.executor": "Run",
-    "Application.ChronoUnitTest01.executor": "Run",
-    "Application.ClasseGenericaTest01.executor": "Run",
-    "Application.ClasseGenericaTest02.executor": "Run",
-    "Application.ClasseGenericaTest03.executor": "Run",
-    "Application.DateFormatTest01.executor": "Run",
-    "Application.DateTest01.executor": "Run",
-    "Application.DateTimeFormatterTest01.executor": "Run",
-    "Application.DirectoryStreamTest01.executor": "Run",
-    "Application.DosFileAttributesTest01.executor": "Run",
-    "Application.DurationTest01.executor": "Run",
-    "Application.EqualsTest01.executor": "Run",
-    "Application.ExceptionTest01.executor": "Run",
-    "Application.FileReaderTest01.executor": "Run",
-    "Application.FileTest01.executor": "Run",
-    "Application.FileTest02.executor": "Run",
-    "Application.FileWriter01.executor": "Run",
-    "Application.FileWriterTest01.executor": "Run",
-    "Application.GenericsTest01.executor": "Run",
-    "Application.InstantTest01.executor": "Run",
-    "Application.IteratorTest01.executor": "Run",
-    "Application.ListArrayConversaoTest01.executor": "Run",
-    "Application.ListSortTest01.executor": "Run",
-    "Application.ListTest01.executor": "Run",
-    "Application.LocalDateTest01.executor": "Run",
-    "Application.LocalDateTimeTest01.executor": "Run",
-    "Application.LocalTimeTest01.executor": "Run",
-    "Application.LocaleTest01.executor": "Run",
-    "Application.LocaleTest02.executor": "Run",
-    "Application.LoginInvalidoExceptionTest01.executor": "Run",
-    "Application.MangaSortTest01.executor": "Run",
-    "Application.MapTest01.executor": "Run",
-    "Application.MapTest02.executor": "Run",
-    "Application.MapTest03.executor": "Run",
-    "Application.MetodoGenericoTest01.executor": "Run",
-    "Application.NavigableMapTest01.executor": "Run",
-    "Application.NavigableSetTest01.executor": "Run",
-    "Application.NormalizeTest01.executor": "Run",
-    "Application.NumberFormatTest01.executor": "Run",
-    "Application.NumberFormatTest02.executor": "Run",
-    "Application.PathMatcherTest01.executor": "Run",
-    "Application.PathMatcherTest02.executor": "Run",
-    "Application.PathTest01.executor": "Run",
-    "Application.PathTest02.executor": "Run",
-    "Application.PathTest03.executor": "Run",
-    "Application.PatternMatcherTest01.executor": "Run",
-    "Application.PatternMatcherTest02.executor": "Run",
-    "Application.PatternMatcherTest03.executor": "Run",
-    "Application.PatternMatcherTest04.executor": "Run",
-    "Application.PatternMatcherTest05.executor": "Run",
-    "Application.PeriodTest01.executor": "Run",
-    "Application.PosixFileAttributesTest01.executor": "Run",
-    "Application.QueueTest01.executor": "Run",
-    "Application.QueueTest02.executor": "Run",
-    "Application.ResourceBundleTest01.executor": "Run",
-    "Application.RunTimeExceptionTest03.executor": "Run",
-    "Application.RuntimeExceptionTest01.executor": "Run",
-    "Application.RuntimeExceptionTest02.executor": "Run",
-    "Application.ScannerTest01.executor": "Run",
-    "Application.ScannerTest02.executor": "Run",
-    "Application.SerializacaoTest01.executor": "Run",
-    "Application.SetTest01.executor": "Run",
-    "Application.SimpleDateFormatTest01.executor": "Run",
-    "Application.SimpleFileVisitorTest01.executor": "Run",
-    "Application.SmartphoneListTest01.executor": "Run",
-    "Application.StackOverflowTest01.executor": "Run",
-    "Application.StringBuilderTest01.executor": "Run",
-    "Application.StringTest01.executor": "Run",
-    "Application.StringTest02.executor": "Run",
-    "Application.TemporalAdjusterTest01.executor": "Run",
-    "Application.TemporalAdjustersTest01.executor": "Run",
-    "Application.TryWithResourcesTest01.executor": "Run",
-    "Application.WildcardTest01.executor": "Run",
-    "Application.WildcardTest02.executor": "Run",
-    "Application.WrapperTest01.executor": "Run",
-    "Application.ZipOutputStreamTest01.executor": "Run",
-    "Application.ZoneTest01.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/leandro/Desktop/DevDojo/POO/src/Zgenerics/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/leandro/Desktop/DevDojo/POO/pasta/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnonymousClassesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicFileAttribrutesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicFileAttributesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedReaderTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedWriterTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalendarTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChronoUnitTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateFormatTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTimeFormatterTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DirectoryStreamTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DosFileAttributesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DurationTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileReaderTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriter01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriterTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstantTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IteratorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListArrayConversaoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListSortTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDateTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDateTimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalTimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocaleTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocaleTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginInvalidoExceptionTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MangaSortTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetodoGenericoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableMapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableSetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NormalizeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFormatTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFormatTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathMatcherTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathMatcherTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatcherTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatcherTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatcherTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatcherTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatcherTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeriodTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PosixFileAttributesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResourceBundleTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RuntimeExceptionTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RuntimeExceptionTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializacaoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleDateFormatTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleFileVisitorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartphoneListTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackOverflowTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemporalAdjusterTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemporalAdjustersTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourcesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildcardTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildcardTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZipOutputStreamTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZoneTest01.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO/src/Zgenerics/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/leandro/Desktop/DevDojo/POO/pasta/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\leandro\Desktop\DevDojo\POO\src\Zgenerics\test" />
@@ -178,13 +179,13 @@
       <recent name="Uregex.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetodoGenericoTest01">
-    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zgenerics.test.ClasseGenericaTest01" />
+  <component name="RunManager" selected="Application.OuterClassesTest03 (3)">
+    <configuration name="AnonymousClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZZAclassesinternas.test.AnonymousClassesTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zgenerics.test.*" />
+          <option name="PATTERN" value="ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zgenerics.test.ClasseGenericaTest02" />
+    <configuration name="OuterClassesTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zgenerics.test.*" />
+          <option name="PATTERN" value="ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClasseGenericaTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zgenerics.test.ClasseGenericaTest03" />
+    <configuration name="OuterClassesTest03 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zgenerics.test.*" />
+          <option name="PATTERN" value="ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodoGenericoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zgenerics.test.MetodoGenericoTest01" />
+    <configuration name="OuterClassesTest03 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zgenerics.test.*" />
+          <option name="PATTERN" value="ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zgenerics.test.WildcardTest02" />
+    <configuration name="OuterClassesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zgenerics.test.*" />
+          <option name="PATTERN" value="ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MetodoGenericoTest01" />
-        <item itemvalue="Application.ClasseGenericaTest03" />
-        <item itemvalue="Application.ClasseGenericaTest02" />
-        <item itemvalue="Application.ClasseGenericaTest01" />
-        <item itemvalue="Application.WildcardTest02" />
+        <item itemvalue="Application.OuterClassesTest03 (3)" />
+        <item itemvalue="Application.OuterClassesTest03 (2)" />
+        <item itemvalue="Application.OuterClassesTest03 (1)" />
+        <item itemvalue="Application.OuterClassesTest03" />
+        <item itemvalue="Application.AnonymousClassesTest02" />
       </list>
     </recent_temporary>
   </component>
